@@ -66,11 +66,3 @@ button:focus-visible {
     background-color: #f9f9f9;
   }
 }
-
-/* Agregando NUEVOS ESTILOS */
-
-.banner-css {
-  background-color: #021414;
-  color: #266165;
-  padding-bottom: 20px;
-}
